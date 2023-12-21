@@ -39,4 +39,4 @@ To use the code in this repository, navigate to the subfolder for the use case y
 
 ## License
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the GNU General Public License version 3 (GPLv3).
