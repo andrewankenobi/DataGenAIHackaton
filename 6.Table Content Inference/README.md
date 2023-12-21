@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://github.com/andrewankenobi/DataGenAIHackaton/blob/main/6.Table%20Content%20Inference/uc6.png" width="350" height="350" alt="Cool Logo" style="border-radius: 10px;">
+</p>
 
 # BigQuery Table Descriptions Generation with BQML and Gemini
 
