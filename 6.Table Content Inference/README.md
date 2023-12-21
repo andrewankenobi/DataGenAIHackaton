@@ -30,4 +30,4 @@ This script requires access to the `bigquery-public-data.cymbal_investments` dat
 
 ## License
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the GNU General Public License version 3 (GPLv3).
