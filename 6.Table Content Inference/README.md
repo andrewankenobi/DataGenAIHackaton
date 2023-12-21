@@ -1,3 +1,5 @@
+<img src="https://github.com/andrewankenobi/DataGenAIHackaton/blob/main/6.Table%20Content%20Inference/uc6.png" width="350" height="350" alt="Cool Logo" style="border-radius: 10px;">
+
 # BigQuery Table Descriptions Generation with BQML and Gemini
 
 This project is an example use case for the GenAI hackathon. It demonstrates how to generate descriptions for BigQuery tables using BigQuery's `INFORMATION_SCHEMA` table and BigQuery Machine Learning (BQML) with Gemini.
