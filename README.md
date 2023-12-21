@@ -35,9 +35,6 @@ Each use case has its own dedicated subfolder containing relevant code snippets 
 
 To use the code in this repository, navigate to the subfolder for the use case you are interested in and follow the instructions in the README.md file.
 
-## Contributing
-
-We welcome contributions! Please see the CONTRIBUTING.md file for details on how to contribute.
 
 ## License
 
