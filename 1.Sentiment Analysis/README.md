@@ -34,4 +34,4 @@ This repository contains a SQL script demonstrating the use of BigQuery ML to le
 
 ## License
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the GNU General Public License version 3 (GPLv3).
