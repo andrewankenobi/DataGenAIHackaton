@@ -1,5 +1,6 @@
-
+<p align="center">
 <img src="https://github.com/andrewankenobi/DataGenAIHackaton/blob/main/logo.png" width="350" height="350" alt="Cool Logo" style="border-radius: 10px;">
+</p>
 
 # GenAI Hackathon Series Repository
 
@@ -38,4 +39,4 @@ To use the code in this repository, navigate to the subfolder for the use case y
 
 ## License
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the GNU General Public License version 3 (GPLv3).
