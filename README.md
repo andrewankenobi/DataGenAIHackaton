@@ -21,7 +21,7 @@ We will be using a range of Google's technologies across these hackathons, inclu
 
 The 8 use cases we will be focusing on are:
 
-1. **Sentiment Analysis**
+1. [**Sentiment Analysis**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/1.Sentiment%20Analysis)
 2. **Social Media Analysis**
 3. **Code Documentation**
 4. **Test Data Creation**
