@@ -29,6 +29,7 @@ The 8 use cases we will be focusing on are:
 6. [**Table Content Inference**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/6.Table%20Content%20Inference)
 7. **Data Quality**
 8. **Summarize PDF reports**
+9. [**Data Exploration Assistant**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/9.%20Data%20Exploration%20Assistant)
 
 Each use case has its own dedicated subfolder containing relevant code snippets and examples.
 
@@ -41,6 +42,7 @@ To use the code in this repository, navigate to the subfolder for the use case y
 Massive shout out to these amazing peeps for their key contributions:
 - [**Kuba**](https://github.com/jskra)
 - [**Vadim**](https://github.com/Vadoid)
+- [**Anouar**](https://github.com/Kriz182)
 
 ## License
 
