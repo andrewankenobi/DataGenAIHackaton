@@ -8,6 +8,8 @@
 ## Overview
 This repository contains Notebooks to generate a context for a natural language query interface. It uses LLM to translate users' query into a structure Looker query and display the results in Looker's Explore.
 
+<img src="https://github.com/andrewankenobi/DataGenAIHackaton/blob/main/9.%20Data%20Exploration%20Assistant/image1.git"  alt="Demo" >
+
 ## Prerequisites
 - Access to Google Cloud Platform (GCP) with Vertex AI Enabled.
 - Access to a Looker Instance.
