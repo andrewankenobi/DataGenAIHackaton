@@ -36,6 +36,11 @@ Each use case has its own dedicated subfolder containing relevant code snippets 
 
 To use the code in this repository, navigate to the subfolder for the use case you are interested in and follow the instructions in the README.md file.
 
+## Contributors
+
+Massive shout out to these amazing peeps for their key contributions:
+- [***Kuba***](https://github.com/jskra)
+- [***Vadim***](https://github.com/Vadoid)
 
 ## License
 
