@@ -25,7 +25,7 @@ The 8 use cases we will be focusing on are:
 2. **Social Media Analysis**
 3. **Code Documentation**
 4. [**Test Data Creation**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/4.Test%20Data%20Creation)
-5. **Metadata Search**
+5. [**Metadata Search**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/5.Metadata%20Search)
 6. [**Table Content Inference**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/6.Table%20Content%20Inference)
 7. **Data Quality**
 8. **Summarize PDF reports**
