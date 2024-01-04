@@ -39,8 +39,8 @@ To use the code in this repository, navigate to the subfolder for the use case y
 ## Contributors
 
 Massive shout out to these amazing peeps for their key contributions:
-- [***Kuba***](https://github.com/jskra)
-- [***Vadim***](https://github.com/Vadoid)
+- [**Kuba**](https://github.com/jskra)
+- [**Vadim**](https://github.com/Vadoid)
 
 ## License
 
