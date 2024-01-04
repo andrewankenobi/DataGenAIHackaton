@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/andrewankenobi/DataGenAIHackaton/blob/main/1.Sentiment%20Analysis/uc1.png" width="350" height="350" alt="Cool Logo" style="border-radius: 10px;">
+<img src="https://github.com/andrewankenobi/DataGenAIHackaton/blob/main/1.Sentiment%20Analysis/uc9.png" width="350" height="350" alt="Cool Logo" style="border-radius: 10px;">
 </p>
 
 
