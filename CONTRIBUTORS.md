@@ -3,6 +3,7 @@
 Massive shout out to these amazing peeps for their key contributions:
 - [**Kuba**](https://github.com/jskra)
 - [**Vadim**](https://github.com/Vadoid)
+- [**Anouar**](https://github.com/Kriz182)
 
 ---
 
