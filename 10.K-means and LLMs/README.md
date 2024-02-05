@@ -1,4 +1,4 @@
-# CustomerInsightAI
+# K-means and LLMs
 
 The SQL script provides a detailed methodology for leveraging a Large Language Model (LLM) in tandem with Google BigQuery for the purpose of analyzing and segmenting customer data using unsupervised machine learning. 
 
