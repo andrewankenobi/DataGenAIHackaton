@@ -19,18 +19,21 @@ We will be using a range of Google's technologies across these hackathons, inclu
 
 ## Use Cases
 
-The 8 use cases we will be focusing on are:
+The use cases we will be focusing on are:
 
-1. [**Sentiment Analysis**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/1.Sentiment%20Analysis)
-2. **Social Media Analysis**
-3. **Code Documentation**
-4. [**Test Data Creation**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/4.Test%20Data%20Creation)
-5. [**Metadata Search**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/5.Metadata%20Search)
-6. [**Table Content Inference**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/6.Table%20Content%20Inference)
-7. [**Data Quality**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/7.Data%20Quality)
-8. **Summarize PDF reports**
-9. [**Data Exploration Assistant**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/9.%20Data%20Exploration%20Assistant)
-10. [**K-means and LLMs**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/10.K-means%20and%20LLMs)
+1. **Sentiment Analysis**
+2. **Social Media Analysis**  (wip)
+3. **Code Documentation** (wip)
+4. **Test Data Creation**
+5. **Metadata Search**
+6.**Table Content Inference**
+7. **Data Quality**
+8. **Summarize PDF reports** (wip)
+9. **Data Exploration Assistant**
+10. **K-means and LLMs**
+
+https://gitlab.com/andreavasco/DataGenAIHackaton/-/tree/main/01.Sentiment%20Analysis
+
 
 Each use case has its own dedicated subfolder containing relevant code snippets and examples.
 
