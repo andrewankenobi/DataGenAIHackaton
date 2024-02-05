@@ -30,6 +30,7 @@ The 8 use cases we will be focusing on are:
 7. [**Data Quality**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/7.Data%20Quality)
 8. **Summarize PDF reports**
 9. [**Data Exploration Assistant**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/9.%20Data%20Exploration%20Assistant)
+10. [**K-means and LLMs**](https://github.com/andrewankenobi/DataGenAIHackaton/tree/main/10.K-means%20and%20LLMs)
 
 Each use case has its own dedicated subfolder containing relevant code snippets and examples.
 
