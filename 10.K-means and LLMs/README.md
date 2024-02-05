@@ -84,7 +84,12 @@ Aggregates data from the Landing.analysis_results into a JSON array and utilizes
 ### Validation 
 Randomly selects a subset of data from the Landing.account_predicted_groups to compare and contrast against the GenAI's interpretations, ensuring the analysis makes sense.
 
+## Web app demo
+Available in [this video](https://www.youtube.com/watch?v=a13xKJgH3RQ)
+
 ## Something for your mood
 Why did the data analyst break up with Google BigQuery?
 Because every time they said "Let's get closer," BigQuery kept increasing the distance to the nearest centroid!
+
+
 
