@@ -32,7 +32,6 @@ The use cases we will be focusing on are:
 9. **Data Exploration Assistant**
 10. **K-means and LLMs**
 
-https://gitlab.com/andreavasco/DataGenAIHackaton/-/tree/main/01.Sentiment%20Analysis
 
 
 Each use case has its own dedicated subfolder containing relevant code snippets and examples.
